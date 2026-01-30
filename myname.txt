@@ -1,3 +1,4 @@
 jirakorn sukmee 6810110042
 
 hello hello from wsl2
+hello from my server
